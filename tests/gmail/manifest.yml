@@ -1,0 +1,4 @@
+---
+- test_name: tests.gmail.test_create_email_draft
+- test_name: tests.gmail.test_delete_email_draft
+  enabled: false
