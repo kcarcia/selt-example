@@ -1,4 +1,6 @@
 from views.google_search import GoogleSearch
+from base_test import BaseTest
+
 
 class TestGoogleSearch(BaseTest):
     def __init__(self, browser):

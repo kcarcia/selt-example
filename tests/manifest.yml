@@ -2,3 +2,6 @@
 - test_name: tests.test_google_search
   params:
   - white cats
+- test_name: tests.gmail
+  type: test-group
+- test_name: tests.gmail.test_create_email_draft
