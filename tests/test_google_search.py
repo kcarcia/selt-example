@@ -1,5 +1,5 @@
 from views.google_search import GoogleSearch
-from base_test import BaseTest
+from selt.base_test import BaseTest
 
 
 class TestGoogleSearch(BaseTest):

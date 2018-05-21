@@ -1,7 +1,7 @@
 from views.google_login import GoogleLogin
 from views.google_search import GoogleSearch
 from views.gmail_dashboard import GmailDashboard
-from base_test import BaseTest
+from selt.base_test import BaseTest
 
 
 class TestDeleteEmailDraft(BaseTest):
