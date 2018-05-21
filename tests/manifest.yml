@@ -4,4 +4,6 @@
   - white cats
 - test_name: tests.gmail
   type: test-group
+  enabled: false
 - test_name: tests.gmail.test_create_email_draft
+  enabled: false
